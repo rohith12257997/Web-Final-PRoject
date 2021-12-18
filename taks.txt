@@ -1,0 +1,29 @@
+Data Flow: App.js -> ListBooks.js -> Books.js -> Book.js
+
+Data Flow: App.js -> SearchBooks.js -> Books.js -> Book.js
+-----------------------------------------------------------
+
+Create ListBooks.js with static code
+
+Create SearchBooks with Static code
+
+Implement BrowserRouter react-router-dom in index.js
+Implement Route from react-router-dom in app.js
+
+Implement Link in the the search element of ListBooks.js
+Edit open-search in App.css by removing the button
+
+Implement Link in the close-search of SearchBooks.js
+
+Define books in the state of App.js
+
+Create ListBooks.js, Books.js, Book.js and show data accordingly.
+
+Create updateShelf(book, shelf) in app.js
+
+Implement SearchBooks.js
+
+Handle the search to work correctly when a book does not have a thumbnail with try and catch in Book.js
+
+Update close-search in App.css with background-color: #eee;
+
